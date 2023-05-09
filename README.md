@@ -11,8 +11,11 @@
 </p>
 <table>
   <tr>
-  <td>[![cangshudada's github stats](https://github-readme-stats.vercel.app/api?username=fuwei-1993&show_icons=true&theme=radical)](https://github.com/fuwei-1993)</td>
-  <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwei-1993&layout=compact)](https://github.com/fuwei-1993)</td>
+  <td>
+    [![cangshudada's github stats](https://github-readme-stats.vercel.app/api?username=fuwei-1993&show_icons=true&theme=radical)](https://github.com/fuwei-1993)
+  </td>
+  <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwei-1993&layout=compact)](https://github.com/fuwei-1993)   </td>
   </tr>
 </table>
 
